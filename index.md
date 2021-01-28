@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## INW | I NETWORK 
+Discover [Inner I Company](http://findusontheweb.innericompany/)! Look within BEcome a part of the New Web with [Inner I Net Company](http://shapereality.innerinetcompany/), and choose to [OwnTheWeb3](http://official.owntheweb3.hns.to/) where we can ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting domains on the internet.
 
-You can use the [editor on GitHub](https://github.com/BeeChains/inw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/inw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) |
+ [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
