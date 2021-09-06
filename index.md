@@ -8,3 +8,6 @@ Discover [Inner I Company](http://findusontheweb.innericompany/)! Look within BE
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) |
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
+
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
